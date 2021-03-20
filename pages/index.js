@@ -43,7 +43,7 @@ function Card() {
             photo: ['https://kpopping.com/documents/3f/0/800/D-3F0VnU8AAjlHF.webp',
                     'https://instagram.fbdo9-1.fna.fbcdn.net/v/t51.2885-15/e35/148381788_1860614217428671_5958427332731232876_n.jpg?tp=1\u0026_nc_ht=instagram.fbdo9-1.fna.fbcdn.net\u0026_nc_cat=107\u0026_nc_ohc=IW22mukHkPAAX95zs34\u0026oh=ae1728706e03d5e3ccc595c29a819bc8\u0026oe=606A2AAD',
                     'https://instagram.fbdo9-1.fna.fbcdn.net/v/t51.2885-15/e35/136749754_158846349353298_820950532850000035_n.jpg?tp=1\u0026_nc_ht=instagram.fbdo9-1.fna.fbcdn.net\u0026_nc_cat=106\u0026_nc_ohc=mjTG-iyELqYAX9OAeF8\u0026oh=5a37cfec7ef86cce6c1ffaaeeba72ed1\u0026oe=606C4248',
-                    'https://instagram.fbdo9-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/150896492_121121139940402_5844948594418928763_n.jpg?tp=1\u0026_nc_ht=instagram.fbdo9-1.fna.fbcdn.net\u0026_nc_cat=110\u0026_nc_ohc=ZafT-urGq64AX8U7Lv-\u0026ccb=7-4\u0026oh=c49a51735671c9fd1ff557c35ce0067f\u0026oe=6080BBB3\u0026_nc_sid=83d603'],
+                    'https://instagram.fbdo9-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/154427728_177018173960363_8882615868780733975_n.jpg?tp=1&_nc_ht=instagram.fbdo9-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=YAgtkZ_QWbMAX9rpueF&ccb=7-4&oh=e8259f28e01e46afa97ec2f145252c6e&oe=607DF0D1&_nc_sid=83d603'],
             id: 1
         },
         {
