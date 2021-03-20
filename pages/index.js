@@ -125,7 +125,7 @@ function Card() {
 
                             member.name == randomItem.name ? setScore(score => score+100) : setScore(score => score-50),  
                             set(state => !state),
-                            setTimeout(()=> {set(state => !state), setRandomize(randomize => !randomize)},1000)
+                            setTimeout(()=> {set(state => !state), setRandomize(randomize => !randomize)},2000)
                             }} >
                         <a.div className="c back" style={{ opacity: opacity.interpolate(o => 1 - o), transform }} />
                         <a.div className="c front" style={{ opacity, transform: transform.interpolate(t => `${t} rotateX(180deg)`) }} />
