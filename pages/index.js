@@ -42,7 +42,8 @@ function Card() {
             name : 'Jisoo',
             photo: ['https://kpopping.com/documents/3f/0/800/D-3F0VnU8AAjlHF.webp',
                     'https://instagram.fbdo9-1.fna.fbcdn.net/v/t51.2885-15/e35/148381788_1860614217428671_5958427332731232876_n.jpg?tp=1\u0026_nc_ht=instagram.fbdo9-1.fna.fbcdn.net\u0026_nc_cat=107\u0026_nc_ohc=IW22mukHkPAAX95zs34\u0026oh=ae1728706e03d5e3ccc595c29a819bc8\u0026oe=606A2AAD',
-                    'https://instagram.fbdo9-1.fna.fbcdn.net/v/t51.2885-15/e35/136749754_158846349353298_820950532850000035_n.jpg?tp=1\u0026_nc_ht=instagram.fbdo9-1.fna.fbcdn.net\u0026_nc_cat=106\u0026_nc_ohc=mjTG-iyELqYAX9OAeF8\u0026oh=5a37cfec7ef86cce6c1ffaaeeba72ed1\u0026oe=606C4248'],
+                    'https://instagram.fbdo9-1.fna.fbcdn.net/v/t51.2885-15/e35/136749754_158846349353298_820950532850000035_n.jpg?tp=1\u0026_nc_ht=instagram.fbdo9-1.fna.fbcdn.net\u0026_nc_cat=106\u0026_nc_ohc=mjTG-iyELqYAX9OAeF8\u0026oh=5a37cfec7ef86cce6c1ffaaeeba72ed1\u0026oe=606C4248',
+                    'https://instagram.fbdo9-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/150896492_121121139940402_5844948594418928763_n.jpg?tp=1\u0026_nc_ht=instagram.fbdo9-1.fna.fbcdn.net\u0026_nc_cat=110\u0026_nc_ohc=ZafT-urGq64AX8U7Lv-\u0026ccb=7-4\u0026oh=c49a51735671c9fd1ff557c35ce0067f\u0026oe=6080BBB3\u0026_nc_sid=83d603'],
             id: 1
         },
         {
@@ -65,7 +66,8 @@ function Card() {
             name : 'Kei',
             photo: ['https://instagram.fbdo9-1.fna.fbcdn.net/v/t51.2885-15/e35/133542300_411704050260845_5808128824671248260_n.jpg?tp=1\u0026_nc_ht=instagram.fbdo9-1.fna.fbcdn.net\u0026_nc_cat=105\u0026_nc_ohc=pzqniCJ0Hy4AX_EqNdp\u0026oh=20f1624c9796f8bd47fffacd661034b0\u0026oe=606BA837',
                     'https://instagram.fbdo9-1.fna.fbcdn.net/v/t51.2885-15/e35/142725705_463459757996633_8951581208422275822_n.jpg?tp=1\u0026_nc_ht=instagram.fbdo9-1.fna.fbcdn.net\u0026_nc_cat=105\u0026_nc_ohc=amn7oFpAW4UAX-kbNCe\u0026oh=d1c0d3a9b71f6813117e3df220a82dc7\u0026oe=606D1B7A',
-                    'https://instagram.fbdo9-1.fna.fbcdn.net/v/t51.2885-15/e35/153732541_431788758039335_181763034737103615_n.jpg?tp=1\u0026_nc_ht=instagram.fbdo9-1.fna.fbcdn.net\u0026_nc_cat=111\u0026_nc_ohc=jcIH0jI7g5AAX8VSHvK\u0026oh=04a041cb88b0886f1b811b20d77304a7\u0026oe=6069B7F1'],
+                    'https://instagram.fbdo9-1.fna.fbcdn.net/v/t51.2885-15/e35/153732541_431788758039335_181763034737103615_n.jpg?tp=1\u0026_nc_ht=instagram.fbdo9-1.fna.fbcdn.net\u0026_nc_cat=111\u0026_nc_ohc=jcIH0jI7g5AAX8VSHvK\u0026oh=04a041cb88b0886f1b811b20d77304a7\u0026oe=6069B7F1',
+                    'https://ncache.ilbe.com/files/attach/new/20200210/4255758/806286519/11232574594/983b8c48af57df54267083e289f33f47_11232574707.jpg'],
             id: 4
         }
          
